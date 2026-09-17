@@ -1,2 +1,2 @@
 # EmmanuelB
-Production-style DevOps and cloud infrastructure project using Terraform, AWS, Docker, Kubernetes, and CI/CD automation.
+End-to-end DevOps and cloud infrastructure project demonstrating AWS, Terraform, Docker, Kubernetes, CI/CD, and infrastructure automation.
